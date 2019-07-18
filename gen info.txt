@@ -1,0 +1,9 @@
+sonar-scanner.bat -D"sonar.projectKey=rajeevsv2019_mslearn-tailspin-spacegame-web" 
+-D"sonar.organization=rajeevsv2019" 
+-D"sonar.sources=." 
+-D"sonar.host.url=https://sonarcloud.io" 
+-D"sonar.login=07de28f70944229fb685c3b1fe7c84e674f3e7ac"
+
+SONAR_TOKEN=07de28f70944229fb685c3b1fe7c84e674f3e7ac
+SONAR_KEY=rajeevsv2019_mslearn-tailspin-spacegame-web
+SONAR_ORGANIZATION=rajeevsv2019

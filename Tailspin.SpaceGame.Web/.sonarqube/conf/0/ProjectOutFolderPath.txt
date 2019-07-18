@@ -1,0 +1,1 @@
+C:\Users\ravas\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\.sonarqube\out\0

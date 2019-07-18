@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "Tailspin.SpaceGame.Web"
+		},
+		{
+			"path": "Tailspin.SpaceGame.Web.Tests"
+		},
+		{
+			"path": "CodeCoverage"
+		}
+	],
+	"settings": {}
+}
