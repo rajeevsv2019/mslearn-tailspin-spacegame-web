@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "CodeCoverage"
+		},
+		{
+			"path": "C:\\Users\\ravas\\mslearn-tailspin-spacegame-web-models"
 		}
 	],
 	"settings": {}
